@@ -60,6 +60,11 @@ Here are some ideas to get you started:
 
 <!-- &theme=dark -->
 
+<!--
+## 🧭 My 🧭
+![rubberramen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubberramen&theme=dark&show_icons=true)
+-->
+
 
 
   
