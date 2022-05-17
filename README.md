@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://user-images.githubusercontent.com/96553431/168731155-c19c2ff7-e6d9-4f72-8441-2773c0237476.png" style="padding:20" width="200" height="200">
 
----
 
 ## ✨My Teck Stack
 
