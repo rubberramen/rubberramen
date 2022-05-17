@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🥊중심을 파고드는 인파이터
+## 🥊 중심을 파고드는 인파이터 🥊
 저는 **개발의 본질**을 집요하게 파고드는 백엔드 개발자입니다.<br>
 성취를 향한 갈망과 대담함은, **KO를 갈구하는 인파이터 복서**와 닮았습니다.<br>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/96553431/168731155-c19c2ff7-e6d9-4f72-8441-2773c0237476.png" style="padding:20" width="200" height="200">
 
 
-## ✨My Teck Stack
+## ✨ My Teck Stack ✨
 
 ![Java](https://camo.githubusercontent.com/fd711c3d9436a4c65d3268ff77bdc48196b2d876ba076e5b58467d319a6ff4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
 ![JavaScript](https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
@@ -52,10 +52,13 @@ Here are some ideas to get you started:
 ![AWS](https://camo.githubusercontent.com/1c371748f30438eafd069cd2e55f401a4bdc5b43cadc247324fb7785333e95ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773)
 ![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
 ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
+<br>
+<br>
 
-<!--
+## 🧭 My Languages 🧭
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubberramen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<!-- &theme=dark -->
 
 
 
