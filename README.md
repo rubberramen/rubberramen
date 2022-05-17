@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!--
 ![DSC01202](https://user-images.githubusercontent.com/96553431/168716058-aedca0a8-0f9e-45e1-9791-9dcc9da09e28.JPG)
--->
+
 
 <img src="https://user-images.githubusercontent.com/96553431/168716058-aedca0a8-0f9e-45e1-9791-9dcc9da09e28.JPG"  width="400" height="270">
-
+-->
 
 ### ✨My Teck Stack
 
